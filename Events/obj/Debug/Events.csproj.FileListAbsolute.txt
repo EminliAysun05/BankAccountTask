@@ -1,0 +1,10 @@
+C:\Users\namjoon\Desktop\PB303\Events\bin\Debug\Events.exe.config
+C:\Users\namjoon\Desktop\PB303\Events\bin\Debug\Events.exe
+C:\Users\namjoon\Desktop\PB303\Events\bin\Debug\Events.pdb
+C:\Users\namjoon\Desktop\PB303\Events\obj\Debug\Events.csproj.AssemblyReference.cache
+C:\Users\namjoon\Desktop\PB303\Events\obj\Debug\Events.Form1.resources
+C:\Users\namjoon\Desktop\PB303\Events\obj\Debug\Events.Properties.Resources.resources
+C:\Users\namjoon\Desktop\PB303\Events\obj\Debug\Events.csproj.GenerateResource.cache
+C:\Users\namjoon\Desktop\PB303\Events\obj\Debug\Events.csproj.CoreCompileInputs.cache
+C:\Users\namjoon\Desktop\PB303\Events\obj\Debug\Events.exe
+C:\Users\namjoon\Desktop\PB303\Events\obj\Debug\Events.pdb
